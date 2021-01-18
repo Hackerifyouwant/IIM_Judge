@@ -1,1 +1,3 @@
-# team22 Submission List 
+# team22 Submission List
+question | result | score | submit time
+----:|----:|-----:|-----

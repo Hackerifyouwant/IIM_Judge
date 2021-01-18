@@ -1,1 +1,3 @@
-# team08 Submission List 
+# team08 Submission List
+question | result | score | submit time
+----:|----:|-----:|-----

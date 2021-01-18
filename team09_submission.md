@@ -1,1 +1,3 @@
-# team09 Submission List 
+# team09 Submission List
+question | result | score | submit time
+----:|----:|-----:|-----
