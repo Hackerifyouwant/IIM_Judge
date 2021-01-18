@@ -1,4 +1,4 @@
-#Submission List
+# Submission List
 all of the submission will be here
 
 team    | question  | results  | score | submit time
