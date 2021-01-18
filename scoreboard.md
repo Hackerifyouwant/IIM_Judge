@@ -1,8 +1,29 @@
 # Scoreboard
-Here is the live ranking
-rank    | team  | PA  | PB | PC | PD | PE | total
-----|-----:|-----:| ----:|-----:|----:|------:|-----
-1 | team03 | 100 | 100 | 80 | 100 | 50 | 430
-2 | team01 | 100 | 90 | 80 | 100 | 50 | 420
-3 | team04 | 100 | 100 | 80 | 80 | 20 | 380
-4 | team02 | 0 | 0 | 20 | 30 | 50 | 100
+rank    | team  | PA  | total
+----|-----:|-----:| -----
+1 | team12 | 0 | 0
+1 | team24 | 0 | 0
+1 | team23 | 0 | 0
+1 | team22 | 0 | 0
+1 | team21 | 0 | 0
+1 | team20 | 0 | 0
+1 | team19 | 0 | 0
+1 | team18 | 0 | 0
+1 | team17 | 0 | 0
+1 | team16 | 0 | 0
+1 | team15 | 0 | 0
+1 | team14 | 0 | 0
+1 | team13 | 0 | 0
+1 | team00 | 0 | 0
+1 | team11 | 0 | 0
+1 | team10 | 0 | 0
+1 | team09 | 0 | 0
+1 | team08 | 0 | 0
+1 | team07 | 0 | 0
+1 | team06 | 0 | 0
+1 | team05 | 0 | 0
+1 | team04 | 0 | 0
+1 | team03 | 0 | 0
+1 | team02 | 0 | 0
+1 | team01 | 0 | 0
+update time:  2:13:03.13 
