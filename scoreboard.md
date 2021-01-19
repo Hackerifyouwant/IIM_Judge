@@ -28,4 +28,4 @@ rank    | team  | PA  | total
 25 | team01 | 0 | 0
 
 
-update time:  0:01:47.62 
+update time:  0:01:59.62 
