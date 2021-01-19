@@ -18,4 +18,4 @@ team00 | PA | WA | 0 | 14:18:35.77
 team00 | PA | AC | 100 | 0:05:04.17
 
 
-update time:  0:06:14.84 
+update time:  0:06:27.19 
