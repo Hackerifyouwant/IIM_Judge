@@ -1,20 +1,20 @@
 # Scoreboard
 rank    | team  | PA  | total
 ----|-----:|-----:| -----
-1 | team00 | 100 | 100
-2 | team12 | 0 | 0
-3 | team24 | 0 | 0
-4 | team23 | 0 | 0
-5 | team22 | 0 | 0
-6 | team21 | 0 | 0
-7 | team20 | 0 | 0
-8 | team19 | 0 | 0
-9 | team18 | 0 | 0
-10 | team17 | 0 | 0
-11 | team16 | 0 | 0
-12 | team15 | 0 | 0
-13 | team14 | 0 | 0
-14 | team13 | 0 | 0
+1 | team12 | 0 | 0
+2 | team24 | 0 | 0
+3 | team23 | 0 | 0
+4 | team22 | 0 | 0
+5 | team21 | 0 | 0
+6 | team20 | 0 | 0
+7 | team19 | 0 | 0
+8 | team18 | 0 | 0
+9 | team17 | 0 | 0
+10 | team16 | 0 | 0
+11 | team15 | 0 | 0
+12 | team14 | 0 | 0
+13 | team13 | 0 | 0
+14 | team00 | 0 | 0
 15 | team11 | 0 | 0
 16 | team10 | 0 | 0
 17 | team09 | 0 | 0
@@ -28,4 +28,4 @@ rank    | team  | PA  | total
 25 | team01 | 0 | 0
 
 
-update time: 13:58:26.20 
+update time: 14:02:16.45 
