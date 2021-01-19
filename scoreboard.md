@@ -1,7 +1,7 @@
 # Scoreboard
 rank    | team  | PA  | total
 ----|-----:|-----:| -----
-1 | team00 | 100 | 100
+1 | team00 | 0 | 0
 2 | team12 | 0 | 0
 3 | team24 | 0 | 0
 4 | team23 | 0 | 0
