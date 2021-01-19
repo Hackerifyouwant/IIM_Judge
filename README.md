@@ -1,1 +1,1 @@
-# Test for master log
+# Test for contest2
