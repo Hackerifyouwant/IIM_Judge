@@ -15,8 +15,9 @@ team00 | PA | AC | 100 | 23:02:19.40
 team00 | PA | CE | 0 | 14:21:05.59
 team00 | PA | WA | 0 | 14:19:30.64
 team00 | PA | WA | 0 | 14:18:35.77
+team00 | PA | AC | 100 | 0:09:58.68
 team00 | PA | AC | 100 | 0:07:29.41
 team00 | PA | AC | 100 | 0:05:04.17
 
 
-update time:  0:10:10.47 
+update time:  0:10:31.62 
