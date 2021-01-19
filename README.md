@@ -1,1 +1,1 @@
-# Test from the server file
+# Test for master log
