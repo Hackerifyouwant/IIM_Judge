@@ -1,6 +1,7 @@
 # Submission List
 team    | question  | results  | score | submit time
 ------|-----:|-----:| ----:|-----
+team00 | PA | AC | 100 | 17:36:05.94
 team00 | PA | WA | 0 | 17:34:56.63
 team00 | PA | WA | 0 | 17:29:20.04
 team00 | PA | WA | 0 | 17:26:13.48
@@ -10,4 +11,4 @@ team00 | PA | WA | 0 | 14:19:30.64
 team00 | PA | WA | 0 | 14:18:35.77
 
 
-update time: 17:35:59.78 
+update time: 17:36:19.68 
