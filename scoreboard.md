@@ -1,6 +1,7 @@
 # Scoreboard
 rank    | team  | PA  | total
 ----|-----:|-----:| -----
+1 | team00 | 100 | 100
 1 | team12 | 0 | 0
 1 | team24 | 0 | 0
 1 | team23 | 0 | 0
@@ -14,7 +15,6 @@ rank    | team  | PA  | total
 1 | team15 | 0 | 0
 1 | team14 | 0 | 0
 1 | team13 | 0 | 0
-1 | team00 | 0 | 0
 1 | team11 | 0 | 0
 1 | team10 | 0 | 0
 1 | team09 | 0 | 0
@@ -28,4 +28,4 @@ rank    | team  | PA  | total
 1 | team01 | 0 | 0
 
 
-update time:  2:35:25.85 
+update time: 11:07:40.20 
