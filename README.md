@@ -1,1 +1,1 @@
-# Test for contest2
+# Here will be the notice for the contest
