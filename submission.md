@@ -52,4 +52,4 @@ team04 | PI | WA | 100 | 0:12:40.22
 team04 | PI | WA | 100 | 0:10:07.31
 
 
-update time:  1:53:54.01 
+update time:  1:54:20.32 
