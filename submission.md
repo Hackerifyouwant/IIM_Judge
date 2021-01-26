@@ -1,6 +1,21 @@
 # Submission List
 team    | question  | results  | score | submit time
 ------|-----:|-----:| ----:|-----
+team17 | PH | AC | 200 | 10:10:39.48
+team24 | PE | WA | 20 | 10:09:44.90
+team09 | PE | WA | 20 | 10:09:25.97
+team19 | PE | AC | 100 | 10:09:19.71
+team08 | PB | CE | 0 | 10:08:59.40
+team19 | PA | AC | 100 | 10:08:50.60
+team05 | PE | WA | 20 | 10:08:42.89
+team07 | PE | CE | 0 | 10:08:37.90
+team19 | PD | AC | 100 | 10:08:30.22
+team01 | PE | WA | 20 | 10:08:24.15
+team03 | PM | TLE | 200 | 10:07:57.31
+team20 | PE | WA | 0 | 10:07:54.16
+team07 | PE | CE | 0 | 10:07:45.02
+team10 | PE | CE | 0 | 10:07:28.18
+team13 | PA | AC | 100 | 10:07:27.69
 team23 | PD | AC | 100 | 10:07:18.13
 team05 | PE | WA | 20 | 10:07:12.78
 team24 | PG | WA | 0 | 10:06:47.47
@@ -86,4 +101,4 @@ team03 | PM | RE | 150 | 09:39:41.54
 team03 | PD | AC | 100 | 09:33:30.71
 
 
-update time: 10:07:49.95 
+update time: 10:10:55.82 
