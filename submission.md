@@ -1,6 +1,8 @@
 # Submission List
 team    | question  | results  | score | submit time
 ------|-----:|-----:| ----:|-----
+team04 | PB | AC | 100 | 10:41:04.60
+team08 | PD | AC | 100 | 10:40:58.01
 team15 | PC | RE | 80 | 10:40:49.66
 team15 | PC | WA | 0 | 10:40:30.90
 team11 | PF | WA | 0 | 10:40:16.29
@@ -196,53 +198,6 @@ team00 | PA | WA | 0 | 10:00:48.50
 team05 | PA | AC | 100 | 10:00:37.02
 team00 | PG | AC | 200 | 10:00:18.61
 team03 | PM | RE | 150 | 10:00:08.80
-team23 | PB | WA | 80 | 09:59:55.08
-team10 | PE | WA | 20 | 09:59:43.88
-team01 | PA | WA | 0 | 09:58:51.95
-team14 | PE | AC | 100 | 09:58:38.72
-team16 | PE | WA | 20 | 09:58:08.56
-team23 | PA | AC | 100 | 09:58:05.47
-team00 | PE | WA | 0 | 09:58:03.27
-team01 | PB | AC | 100 | 09:57:16.45
-team07 | PD | AC | 100 | 09:56:43.48
-team20 | PE | WA | 0 | 09:56:26.69
-team00 | PD | WA | 0 | 09:56:11.81
-team01 | PB | WA | 80 | 09:55:57.65
-team18 | PM | CE | 0 | 09:55:30.61
-team22 | PA | AC | 100 | 09:55:03.46
-team14 | PE | WA | 20 | 09:54:59.79
-team13 | PB | WA | 0 | 09:54:28.88
-team16 | PE | WA | 0 | 09:54:07.89
-team02 | PA | AC | 100 | 09:53:25.45
-team03 | PG | AC | 200 | 09:52:15.43
-team18 | PE | CE | 0 | 09:51:33.49
-team00 | PG | CE | 0 | 09:51:08.92
-team07 | PD | WA | 0 | 09:50:13.21
-team00 | PG | CE | 0 | 09:49:40.31
-team05 | PA | WA | 0 | 09:49:04.09
-team00 | PB | WA | 0 | 09:49:01.13
-team16 | PA | AC | 100 | 09:48:46.53
-team03 | PE | AC | 100 | 09:48:18.59
-team17 | PD | AC | 100 | 09:47:14.97
-team00 | PA | WA | 0 | 09:47:06.74
-team24 | PG | WA | 0 | 09:46:24.92
-team24 | PE | WA | 20 | 09:46:21.72
-team18 | PE | CE | 0 | 09:46:14.63
-team05 | PC | WA | 0 | 09:46:09.10
-team10 | PM | WA | 0 | 09:45:41.34
-team16 | PD | AC | 100 | 09:45:34.19
-team17 | PE | WA | 20 | 09:45:21.14
-team14 | PD | AC | 100 | 09:44:48.79
-team14 | PA | AC | 100 | 09:44:11.23
-team00 | PD | CE | 0 | 09:44:07.72
-team17 | PA | AC | 100 | 09:44:03.31
-team20 | PD | WA | 0 | 09:42:38.72
-team01 | PD | WA | 0 | 09:42:29.47
-team20 | PD | WA | 0 | 09:41:37.05
-team00 | PE | WA | 20 | 09:41:25.93
-team00 | PG | CE | 0 | 09:40:58.06
-team03 | PM | RE | 150 | 09:39:41.54
-team03 | PD | AC | 100 | 09:33:30.71
 
 
-update time: 10:41:12.94 
+update time: 10:41:44.27 
