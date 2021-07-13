@@ -26,6 +26,8 @@
 * 如無法上傳，請舉手尋求協助
 
 * 若在賽中遇到任何問題，請舉手尋求協助
+## 題目
+https://hackmd.io/@55oEqtmsTpS4dsbIDD2Wug/B1KU5Mi1O
 ## ScoreBoard and Submission
 https://github.com/Hackerifyouwant/testrepo
 
